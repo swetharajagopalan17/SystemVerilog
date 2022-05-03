@@ -1,0 +1,10 @@
+//filename:- FIFO_lib.sv
+`include "FIFO_tx.sv"
+`include "interface.sv"
+`include "FIFO_cfg.sv"
+`include "FIFO_gen.sv"
+`include "FIFO_bfm.sv"
+`include "FIFO_mon.sv"
+`include "FIFO_sb.sv"
+`include "FIFO_env.sv"
+`include "FIFO_test.sv"
